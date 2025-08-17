@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-satoshi: "Satoshi";
+  --font-satoshi-bold: "Satoshi-Bold";
+  --font-inter: "Inter";
+  --font-ibm-plex-sans: "IBM Plex sans";
+  --breakpoint-xs: 32rem;
+  --breakpoint-xhs: 24rem;
+  --breakpoint-dg: 56rem;
+}
